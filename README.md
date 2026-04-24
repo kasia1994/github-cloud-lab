@@ -4,15 +4,9 @@ A hands-on repository for learning GitHub as a cloud platform.
 
 ## Contents
 
-- `hello.py` — A simple Python greeting script
-- `.devcontainer/` — Codespace configuration
+- hello.py — simple Python script
+- .devcontainer — Codespaces config
 
-## Running the script
+## Run
 
-```bash
 python hello.py
-git add README.md
-git commit -m "Add README with project description"
-git push origin feature/hello-world
-Ctrl + D
-git add README.md
